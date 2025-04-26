@@ -1,6 +1,6 @@
 # CurvedTabBar
 
-A customizable and beautiful curved notch tab bar for iOS, written in Swift and distributed via Swift Package Manager.
+A customizable and beautiful curved tabbar for iOS, written in Swift and distributed via Swift Package Manager.
 
 ![CurvedTabbarPreview](https://github.com/user-attachments/assets/f0789041-19ac-4a55-9c22-ca90b48572fd)
 
