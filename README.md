@@ -21,7 +21,7 @@ A customizable and beautiful curved notch tab bar for iOS, written in Swift and 
 
 ### Swift Package Manager
 
-To integrate `CurveNotchTabBar` into your Xcode project:
+To integrate `CurveTabBar` into your Xcode project:
 
 1. Open your project in Xcode.
 2. Go to **File > Add Packages...**
